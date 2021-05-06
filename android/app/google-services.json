@@ -1,0 +1,39 @@
+{
+  "project_info": {
+    "project_number": "117394470783",
+    "project_id": "belajar-2f296",
+    "storage_bucket": "belajar-2f296.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:117394470783:android:e63cd024c352f00b22cc4a",
+        "android_client_info": {
+          "package_name": "com.example.green_app"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "117394470783-espor8a4tsovih260ht5tqes1mg5j1v0.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyAJkW1fq_TAhfpx15q6Zv33Ng3FaZKyB_I"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "117394470783-espor8a4tsovih260ht5tqes1mg5j1v0.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
